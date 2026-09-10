@@ -22,12 +22,10 @@ The main goal of this research project is to design, implement, and evaluate a s
 
 ---
 
-Key Objectives
-RO1: Evaluate existing security vulnerabilities and throughput bottlenecks in distributed storage platforms.
-
-RO2: Implement a lightweight encryption module integrated with Role-Based Access Control (RBAC).
-
-RO3: Measure performance based on encryption latency (ms), read/write throughput (MB/s), and policy enforcement.
+## Key Objectives
+1. **RO1:** Evaluate existing security vulnerabilities and throughput bottlenecks in distributed storage platforms.
+2. **RO2:** Implement a lightweight encryption module integrated with Role-Based Access Control (RBAC).
+3. **RO3:** Measure performance based on encryption latency (ms), read/write throughput (MB/s), and policy enforcement.
 
 ## Repository Structure
 ```text
